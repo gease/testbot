@@ -1,0 +1,7 @@
+reminder:
+  - my_reminder
+  - datetime
+price:
+  - price
+greetings:
+  - greetings
